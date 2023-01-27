@@ -1,0 +1,23 @@
+.form input {
+    width: 20rem;
+    margin-left: 0rem;
+    height: 2rem;
+}
+
+.form {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+.form button {
+    height: 2rem;
+    width: 2rem;
+    background-color: #FA7F08;
+    border: none;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

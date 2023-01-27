@@ -1,0 +1,13 @@
+.main {
+    background-color: white;
+    padding: 30px;
+    width: 35rem;
+    margin-top: 8vh;
+    border-radius: 10px;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}
